@@ -21,7 +21,7 @@ Indicadores incluídos no Dashboard:
 ## Semana 2
 Na segunda semana, o desafio foi analisar os dados com o resultado de uma campanha de anúncios digitais para uma plataforma de ecommerce.
 
-![image](https://user-images.githubusercontent.com/4923677/134988404-e82e2c59-87af-45c4-a45c-ea7c04e6234c.png)
+![image](https://user-images.githubusercontent.com/4923677/134990575-b56ef81e-7f9c-4635-966f-f589c9fb78a6.png)
 
 Os arquivos disponibilizados estavam em formato json e continham dados de dispositivos dos usuários e da idade e gênero. Os arquivos também tinham valores de quanto foi gasto na campanha e dos resultados, com diversos indicadores, tudo de forma segmentada a nível de faixa etária e gênero.
 
