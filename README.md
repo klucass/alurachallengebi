@@ -18,3 +18,16 @@ Indicadores incluídos no Dashboard:
 - **Ship to door**: média histórica de dias necessários para entregar o produto desde a data do pedido até a data da entrega.
 - **Estoque médio por ano**: mostra a evolução do estoque médio.
 
+## Semana 2
+Na segunda semana, o desafio foi analisar os dados com o resultado de uma campanha de anúncios digitais para uma plataforma de ecommerce.
+
+![image](https://user-images.githubusercontent.com/4923677/134988404-e82e2c59-87af-45c4-a45c-ea7c04e6234c.png)
+
+Os arquivos disponibilizados estavam em formato json e continham dados de dispositivos dos usuários e da idade e gênero. Os arquivos também tinham valores de quanto foi gasto na campanha e dos resultados, com diversos indicadores, tudo de forma segmentada a nível de faixa etária e gênero.
+
+Os principais indicadores calculados foram:
+- Taxa de Conversão: de todos que visitaram o site, quanto finalizaram uma compra. Uma boa taxa de conversão gira em torno de 1,6%.
+- Investimento convertido: gastos em anúncios que trouxeram conversão.
+- Valor de conversão: valor dos produtos comprados pelos clientes convertidos.
+- ROAS: retorno sobre o investimento = Valor total de conversão / Valor total gasto com anúncios na campanha.
+- Ticket Médio. Valor total de conversão / Número de compras.
