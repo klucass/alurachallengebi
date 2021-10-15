@@ -1,4 +1,7 @@
 # Alura Challenge BI
+
+<img src='https://user-images.githubusercontent.com/79534537/137535548-3582fabe-7f01-4976-aeb7-df727cbf3b6d.png' alt='Badge Alura BI' width=300 title='Badge Alura BI'>
+
 Desafios completados do Alura Challenge BI (https://www.alura.com.br/artigos/alura-challenges-bi) de Setembro de 2021.
 
 O Alura challenge BI consiste em uma imersão no mundo do BI com foco em resolver problemas propostos pela equipe da Alura usando ferramentas como Power BI.
